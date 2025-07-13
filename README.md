@@ -1,4 +1,4 @@
-# First Cloud Journey (FCJ) Internship Program - Early Completion Requirements
+<!-- # First Cloud Journey (FCJ) Internship Program - Early Completion Requirements
 
 [![FCJ](https://img.shields.io/badge/FCJ-Internship-blue)](https://github.com/AWS-First-Cloud-Journey/Internship)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange)](https://aws.amazon.com/)
@@ -225,4 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Cập nhật lần cuối: 2024-07-05*  
 *Phiên bản: 2.0.0*  
-*Được duy trì bởi: FCJ Team*
+*Được duy trì bởi: FCJ Team* -->
+
+# Đây là Repo của Nguyễn Thu Hiền
+---
