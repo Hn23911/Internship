@@ -227,7 +227,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Phiên bản: 2.0.0*  
 *Được duy trì bởi: FCJ Team* -->
 
-# Đây là Repo của Nguyễn Thu Hiền
-## Đây là repo cho việc phát triển, nếu về sau chị cần merge vào branch chính của anh Kha hay ai khác thì merge master là được.
----
-### !Lưu ý | Nhớ là chị ở branch develop, làm xong nhớ merge lên master
+
